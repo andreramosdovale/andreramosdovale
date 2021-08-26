@@ -27,6 +27,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" padding="10px" width="60" height="60"/>
 <br>
 <center>
-<img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&theme=dark" />
-<img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&layout=compact&langs_count=20&theme=dark"/>
+	<table>
+		<tr>
+			<td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&theme=dark" /></td>
+			<td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&layout=compact&langs_count=20&theme=dark"/></td>
+		</tr>
+	</table>
 </center>
