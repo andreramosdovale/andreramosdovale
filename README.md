@@ -5,6 +5,9 @@
 <p align='center'>
     Full Stack Web applications.
 </p>
+<p align='center'>
+  📫 How to reach me: <a href='mailto:andre_ramosdovale@outlook.com'>andre_ramosdovale@outlook.com</a>
+</p>
 
 <p align='center'>
     
@@ -14,13 +17,14 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&count_private=true" width="350"></a>
-</p>
+<center>
+<table>
+    <tr>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&theme=midnight-purple" /></td>
+        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&layout=compact&langs_count=20&theme=midnight-purple"/></td>
+    </tr>   
+</table>
+</center>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:andre_ramosdovale@outlook.com'>andre_ramosdovale@outlook.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/andreramosdovale/andreramosdovale"></a> 
-</p>
+
+
