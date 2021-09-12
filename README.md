@@ -26,11 +26,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" padding="10px" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" padding="10px" width="60" height="60"/>
 <br>
-<center>
-	<table>
-		<tr>
-			<td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&theme=dark" /></td>
-			<td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&layout=compact&langs_count=20&theme=dark"/></td>
-		</tr>
-	</table>
-</center>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
