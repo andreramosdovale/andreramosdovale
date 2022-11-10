@@ -26,7 +26,7 @@
 <h2> O que estou fazendo no momento? </h2>
 <div>
     <p>
-        Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de C#, reforçar minha base de Javascript e por fim aprender mais sobre o ecossistema .Net para construir melhores aplicações, Além de praticar minha logica no <a href="https://www.hackerrank.com/andre_ramosdova1">HackerRank</a>.
+        Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de C#, reforçar minha base de Javascript e por fim aprender mais sobre o ecossistema .Net para construir melhores aplicações.
     </p>
 </div>
 <h3> Fale comigo: </h3>
