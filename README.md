@@ -1,3 +1,8 @@
+<style>
+    ul {
+        list-style: none;
+    }
+</style>
 <div align="center">
     <h3>Hi, I'm André 👋<h3>
     <h3> FullStack Developer</h3>
@@ -23,11 +28,74 @@
         </li>
     <ul>
 </div>
-<h2> O que estou fazendo no momento? </h2>
+<h2> Checklist para 2023 </h2>
 <div>
-    <p>
-        Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de C#, reforçar minha base de Javascript e por fim aprender mais sobre o ecossistema .Net para construir melhores aplicações.
-    </p>
+    <ul>
+        <li>
+            <input type="checkbox" id="docker" name="docker" disabled>
+            <label for="docker">Aprender mais sobre docker</label>
+        </li>
+        <li>
+            <input type="checkbox" id="csharp" name="csharp" disabled>
+            <label for="csharp">Pegar confiança em c# e .net</label>
+        </li>
+        <li>
+            <input type="checkbox" id="deploy" name="deploy" disabled>
+            <label for="deploy">Aprender mais sobre *ops</label>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">CI/CD</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">Observabilidade</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">Terraform</label>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="horns" name="horns" disabled>
+            <label for="horns">Estudar mais sobre Gitflow/Trunk-based</label>
+        </li>
+        <li>
+            <input type="checkbox" id="horns" name="horns" disabled>
+            <label for="horns">Aprender sobre mensageria</label>
+        </li>
+        <li>
+            <input type="checkbox" id="githubactions" name="githubactions" disabled>
+            <label for="githubactions">Estudar sobre Aquiterura</label>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">DDD</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">EDA</label>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <input type="checkbox" id="horns" name="horns" disabled>
+                    <label for="horns">Clean</label>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <input type="checkbox" id="horns" name="horns" disabled>
+            <label for="horns">Projeto pessoal</label>
+        </li>
+    </ul>
 </div>
 <h3> Fale comigo: </h3>
 <div align="left">
