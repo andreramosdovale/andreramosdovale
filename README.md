@@ -1,8 +1,3 @@
-<style>
-    ul {
-        list-style: none;
-    }
-</style>
 <div align="center">
     <h3>Hi, I'm André 👋<h3>
     <h3> FullStack Developer</h3>
