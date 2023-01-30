@@ -88,6 +88,10 @@
         </li>
         <li>
             <input type="checkbox" id="horns" name="horns" disabled>
+            <label for="horns">Aprender + sobre Next</label>
+        </li>
+        <li>
+            <input type="checkbox" id="horns" name="horns" disabled>
             <label for="horns">Projeto pessoal</label>
         </li>
     </ul>
