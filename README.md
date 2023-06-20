@@ -31,8 +31,8 @@
             <label for="docker">Aprender mais sobre docker</label>
         </li>
         <li>
-            <input type="checkbox" id="csharp" name="csharp" disabled>
-            <label for="csharp">Pegar confiança em c# e .net</label>
+            <input type="checkbox" id="node" name="node" disabled>
+            <label for="csharp">Aprender mais sobre node e backend</label>
         </li>
         <li>
             <input type="checkbox" id="deploy" name="deploy" disabled>
@@ -114,8 +114,6 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js">
     <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
-    <img src="https://img.shields.io/badge/.Net-682B79?style=for-the-badge&logo=csharp&logoColor=white" alt="c#">
-    <img src="https://img.shields.io/badge/csharp-1C9622?style=for-the-badge&logo=csharp&logoColor=white" alt=".net">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
 </div>
 
