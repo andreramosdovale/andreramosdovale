@@ -18,8 +18,8 @@
             Faculdade: Ciência da Computação - Faculdade Bagozzi
         </li>
         <li>
-            Dev III na
-            <a href="https://www.linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial/">Agrotools</a>
+            Dev Senior no
+            <a href="https://www.linkedin.com/company/maristabrasil/">Marista</a>
         </li>
     <ul>
 </div>
