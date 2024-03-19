@@ -18,8 +18,8 @@
             Faculdade: Ciência da Computação - Faculdade Bagozzi
         </li>
         <li>
-            Dev Senior no
-            <a href="https://www.linkedin.com/company/maristabrasil/">Marista</a>
+            Dev Fullstack Pleno na
+            <a href="https://www.linkedin.com/company/zupinnovation/">Zup Innovation</a>
         </li>
     <ul>
 </div>
