@@ -9,16 +9,13 @@
             Nome: André Ramos do Vale
         </li>
         <li>
-            Idade: 24
-        </li>
-        <li>
             Localização: Curitiba, Brazil
         </li>
         <li>
             Faculdade: Ciência da Computação - Faculdade Bagozzi
         </li>
         <li>
-            Dev Fullstack Pleno na
+            Dev Fullstack na
             <a href="https://www.linkedin.com/company/zupinnovation/">Zup Innovation</a>
         </li>
     <ul>
