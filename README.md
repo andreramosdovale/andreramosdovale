@@ -1,46 +1,18 @@
-<div align="center">
-    <h3>Hi, I'm André 👋<h3>
-    <h3> FullStack Developer</h3>
-</div>
-<h2> Sobre mim: </h2>
-<div>
-    <ul>
-        <li>
-            Nome: André Ramos do Vale
-        </li>
-        <li>
-            Localização: Curitiba, Brazil
-        </li>
-        <li>
-            Faculdade: Ciência da Computação - Faculdade Bagozzi
-        </li>
-        <li>
-            Dev Fullstack na
-            <a href="https://www.linkedin.com/company/zupinnovation/">Zup Innovation</a>
-        </li>
-    <ul>
-</div>
-<h2> Checklist para 2024 </h2>
-<div>
-</div>
-<h3> Fale comigo: </h3>
-<div align="left">
-    <a target='_blank' href="https://www.linkedin.com/in/andré-ramos-do-vale-671977144/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
-<h3 align="left">Tecnologias:</h3>
-<div align="left" style="margin-botton: 10px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-    <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" alt="typescript"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js">
-    <img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-</div>
+# 👋 Olá, eu sou o André!
 
-[![card](https://github-readme-stats.vercel.app/api?username=andreramosdovale&theme=tokyonight)](https://github.com/andreramosdovale/)
+🎯 Sou um desenvolvedor **Fullstack** com foco em **Frontend** e trabalho na [Zup Innovation](https://www.linkedin.com/company/zupinnovation/). Atualmente, tenho me aprofundado nos estudos de **testes unitários** e **acessibilidade na web**.
 
-[![andreramosdovale](https://github-readme-stats.vercel.app/api/top-langs/?username=andreramosdovale&hide=html&layout=compact&theme=tokyonight)](https://github.com/andreramosdovale/)
+🚀 Minhas principais tecnologias incluem:
+- **JavaScript** e **TypeScript**
+- **React** e **Vue**
+- **Next.js**
+- **Node.js**
+- **Tailwind CSS** e **preprocessadores de CSS**
+- **Jest** para testes
+
+💡 Acredito que uma web acessível e bem testada é essencial para criar experiências inclusivas e de alta qualidade!
+
+📫 Você pode me encontrar nas minhas redes sociais:
+- [LinkedIn](https://www.linkedin.com/in/andreramosdovale/)
+- [Bluesky](https://bsky.app/profile/andresaci.bsky.social)
+- 📧 Email: andre_ramosdovale@outlook.com
