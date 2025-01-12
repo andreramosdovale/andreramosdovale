@@ -16,3 +16,5 @@
 - <a href="https://www.linkedin.com/in/andreramosdovale/" target="_blank">LinkedIn</a>
 - <a href="https://bsky.app/profile/andresaci.bsky.social" target="_blank">Bluesky</a>
 - 📧 Email: andre_ramosdovale@outlook.com
+
+<img align="center" width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreramosdovale&show_icons=true&locale=en&layout=compact" alt="andreramosdovale" />
