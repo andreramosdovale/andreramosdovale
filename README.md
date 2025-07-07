@@ -21,6 +21,10 @@ Here are some of the technologies and tools I work with:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreramosdovale&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=github_dark&hide_border=true" />
 
 ---
+### Featured Projects 🏆
+
+Here are some of the projects I'm proud of.
+
 ####  Hive.Connect - Community Landing Page
 *As a volunteer developer, I created the official landing page for Hive.Connect, a social project dedicated to providing free IT education and fostering a tech community.*
 - Built with a modern, component-based architecture for performance and maintainability.
