@@ -6,9 +6,23 @@ Currently, I work at a payment institution where I develop and maintain high-per
 
 My professional journey has given me a broad perspective across different sectors (Agribusiness, Education, and Finance) and specialized knowledge in architectures like **Hexagonal Architecture** and **Modular Monoliths**.
 
-📫 How to reach me:
+---
+### My Tech Stack & Tools 🚀
+
+Here are some of the technologies and tools I work with:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,js,ts,aws,docker,mysql,mongodb,postgres,jest,git,githubactions&perline=9" />
+</a>
+
+---
+### My GitHub Stats 📊
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreramosdovale&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=github_dark&hide_border=true" />
+
+
+---
+### 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/andreramosdovale/" target="_blank">LinkedIn</a>
 - <a href="https://bsky.app/profile/andresaci.bsky.social" target="_blank">Bluesky</a>
 - 📧 Email: andre_ramosdovale@outlook.com
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreramosdovale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="most used languages graph" />
