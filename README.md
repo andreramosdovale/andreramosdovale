@@ -1,14 +1,10 @@
-# 👋 Olá, eu sou o André!
+### Hi there, I'm André! 👋
 
-🎯 Sou um desenvolvedor **Backend** e trabalho na <a href="https://www.linkedin.com/company/ebanx/" target="_blank">Ebanx</a>.
+I'm a Backend Software Engineer passionate about building robust and scalable solutions in the fintech industry.
 
-🚀 Minhas principais tecnologias incluem:
-- **Java** e **TypeScript**
-- **React** e **Next**
-- **SpringBoot** e **Node.js**
-- **Mysql**
-- **AWS**
-- **Junit**, **Mockito** e **Jest**
+Currently, I work at a payment institution where I develop and maintain high-performance transactional systems, processing over **5 million payments daily**. I have hands-on experience implementing strategic projects aligned with innovations in the Brazilian financial system, such as **PIX Automático** and **Open Finance**, using technologies like Java, Spring, and AWS.
+
+My professional journey has given me a broad perspective across different sectors (Agribusiness, Education, and Finance) and specialized knowledge in architectures like **Hexagonal Architecture** and **Modular Monoliths**.
 
 📫 Você pode me encontrar nas minhas redes sociais:
 - <a href="https://www.linkedin.com/in/andreramosdovale/" target="_blank">LinkedIn</a>
