@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 - Fully responsive design to ensure accessibility across all devices.
 - Deployed on Vercel with automated CI/CD for seamless updates.
 - **Tech Stack:** `Astro`, `React`, `Tailwind CSS`, `Vercel`
-- **[View on GitHub](https://github.com/socialhiveconnect/landing-page)** | **[Live Demo](https://socialhiveconnect.vercel.app/)**
+- **[View on GitHub](https://github.com/socialhiveconnect/landing-page)** | **[Live](https://www.hiveconnect.tech/)**
 
 ---
 ### 📫 How to reach me:
