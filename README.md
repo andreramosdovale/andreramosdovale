@@ -1,6 +1,6 @@
 ### Hi there, I'm André! 👋
 
-I'm a Backend Software Engineer passionate about building robust and scalable solutions in the fintech industry.
+I'm a FullStack Software Engineer passionate about building robust and scalable solutions in the fintech industry.
 
 Currently, I work at a payment institution where I develop and maintain high-performance transactional systems, processing over **5 million payments daily**. I have hands-on experience implementing strategic projects aligned with innovations in the Brazilian financial system, such as **PIX Automático** and **Open Finance**, using technologies like Java, Spring, and AWS.
 
