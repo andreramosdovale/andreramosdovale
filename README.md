@@ -46,7 +46,7 @@ Here are some of the projects I'm proud of.
 - Uses **RabbitMQ** for asynchronous task processing, ensuring system resilience and responsiveness.
 - **Tech Stack:**
   - `TypeScript`, `NestJS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker`, `Jest`
-- **[View on GitHub](https://github.com/andreramosdovale/projeto-gamma)**
+- **[View on GitHub](https://github.com/andreramosdovale/gamma)**
 
 
 
