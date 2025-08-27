@@ -45,7 +45,7 @@ Here are some of the projects I'm proud of.
 - Implements **CQRS (Command Query Responsibility Segregation)** to optimize read/write operations.
 - Uses **RabbitMQ** for asynchronous task processing, ensuring system resilience and responsiveness.
 - **Tech Stack:**
-  - `TypeScript`, `NestJS`, `Prisma`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker`, `Jest`
+  - `TypeScript`, `NestJS`, `Drizzle`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker`, `Jest`
 - **[View on GitHub](https://github.com/andreramosdovale/gamma)**
 
 
