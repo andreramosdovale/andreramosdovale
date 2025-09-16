@@ -38,15 +38,12 @@ These are some of the technologies and tools I work with:
 
 Here are some of the projects I'm proud of.
 
-#### Projeto Gamma - Logistics Management System
-*An advanced backend project designed as a deep-dive study into modern software architectures for a logistics management system.*
-- Built with a **Modular Monolith** approach, combining deployment simplicity with high cohesion.
+#### SeatSync API - Cinema Management System
+*An advanced backend project designed as a deep-dive study into modern software architectures for a management system.*
 - Strictly follows **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
-- Implements **CQRS (Command Query Responsibility Segregation)** to optimize read/write operations.
-- Uses **RabbitMQ** for asynchronous task processing, ensuring system resilience and responsiveness.
 - **Tech Stack:**
-  - `TypeScript`, `NestJS`, `Drizzle`, `PostgreSQL`, `RabbitMQ`, `Redis`, `Docker`, `Jest`
-- **[View on GitHub](https://github.com/andreramosdovale/gamma)**
+  - `Kotlin`, `SpringBoot`, `SpringData JPA`, `PostgreSQL`
+- **[View on GitHub](https://github.com/andreramosdovale/seatsync-api)**
 
 
 
