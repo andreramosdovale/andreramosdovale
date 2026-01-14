@@ -1,37 +1,26 @@
 ### Hi there, I'm André! 👋
 
-I'm a FullStack Software Engineer specializing in building robust and scalable solutions for the **fintech industry**.
+I'm a **Senior Software Engineer at Positivo Tecnologia**, working as a **Full Stack Developer** in an **EdTech environment**, where I help build **scalable, gamified educational solutions** that enhance learning through technology.
 
-Currently, at a leading payment institution, my focus is on high-performance transactional systems. My key responsibilities and achievements include:
+My background includes designing and developing **robust, high-performance systems** across multiple industries, with strong experience in **finance, education, and large-scale platforms**.
 
-- 🚀 Developing and maintaining systems that process over **5 million payments daily**.
-- 💡 Implementing strategic projects aligned with the latest innovations in the Brazilian financial system, such as **PIX Automático** and **Open Finance**.
-- 🛠️ Working with technologies like **Java, Spring, and AWS** to deliver secure and efficient solutions.
+Currently, my work focuses on:
 
-My professional journey has provided me with a broad perspective across different sectors (Agribusiness, Education, and Finance) and specialized knowledge in architectures like **Modular Monoliths** and **Hexagonal Architecture**.
+- 🎮 Building **gamified educational platforms** that combine engagement, performance, and scalability.
+- 🧠 Designing solutions with a strong focus on **software architecture, maintainability, and clean code**.
+- ⚙️ Developing full-stack applications using modern backend and frontend technologies.
+- ☁️ Leveraging **cloud-native architectures on AWS** to deliver reliable and scalable systems.
+
+Previously, I worked on **mission-critical financial systems**, contributing to platforms that processed **millions of transactions daily**, and participated in strategic initiatives aligned with the Brazilian financial ecosystem, such as **PIX** and **Open Finance**.
+
+My professional journey has given me a broad perspective across **EdTech, Fintech, and Agribusiness**, with solid experience in architectural patterns like **Modular Monoliths**, **Hexagonal Architecture**, and **Domain-Driven Design (DDD)**.
 
 ---
 ### 🚀 Tech Stack & Tools
 
-These are some of the technologies and tools I work with:
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,js,ts,aws,docker,mysql,mongodb,postgres,jest,git,githubactions,astro,tailwindcss,vercel&perline=9" />
 </a>
-
----
-### 📊 My GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=andreramosdovale&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreramosdovale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ---
 ### 🏆 Featured Projects
