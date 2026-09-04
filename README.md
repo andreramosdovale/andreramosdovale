@@ -1,25 +1,38 @@
 ### Hi there, I'm André! 👋
 
-I'm a **Senior Software Engineer at Positivo Tecnologia**, working as a **Full Stack Developer** in an **EdTech environment**, where I help build **scalable, gamified educational solutions** that enhance learning through technology.
+I'm a **Senior Backend Engineer at Zup Innovation**, building **cloud-native
+services and AI-powered platforms** on AWS, with a strong focus on
+**architecture, security, and long-term maintainability**.
 
-My background includes designing and developing **robust, high-performance systems** across multiple industries, with strong experience in **finance, education, and large-scale platforms**.
+My current stack is **Python + FastAPI on AWS**, with **Terraform** for
+infrastructure and **Amazon Bedrock** for generative AI. Day to day, my work
+focuses on:
 
-Currently, my work focuses on:
+- 🤖 Building **conversational AI services** backed by **LLMs on Amazon Bedrock**.
+- 🐍 Developing **Python** APIs with **FastAPI**, applying **Clean Architecture**
+  to keep external integrations behind well-defined interfaces.
+- 🔐 Treating **security and privacy as defaults** — structured logging with
+  masking of sensitive data, hardened containers, and least-privilege IAM.
+- ☁️ Running workloads on **AWS (ECS Fargate, RDS, Secrets Manager)** provisioned
+  with **Terraform**, observed through **Grafana** and **CloudWatch**.
+- ✅ Practicing **spec-driven development**: specification and acceptance
+  criteria first, enforced by an automated test suite with coverage gates.
 
-- 🎮 Building **gamified educational platforms** that combine engagement, performance, and scalability.
-- 🧠 Designing solutions with a strong focus on **software architecture, maintainability, and clean code**.
-- ⚙️ Developing full-stack applications using modern backend and frontend technologies.
-- ☁️ Leveraging **cloud-native architectures on AWS** to deliver reliable and scalable systems.
+Before focusing on backend and cloud, I worked as a **Full Stack Developer in
+EdTech**, building **gamified educational platforms**, and on **mission-critical
+financial systems** processing **millions of transactions daily** — including
+strategic initiatives of the Brazilian financial ecosystem such as **PIX** and
+**Open Finance**.
 
-Previously, I worked on **mission-critical financial systems**, contributing to platforms that processed **millions of transactions daily**, and participated in strategic initiatives aligned with the Brazilian financial ecosystem, such as **PIX** and **Open Finance**.
-
-My professional journey has given me a broad perspective across **EdTech, Fintech, and Agribusiness**, with solid experience in architectural patterns like **Modular Monoliths**, **Hexagonal Architecture**, and **Domain-Driven Design (DDD)**.
+This journey across **Fintech, EdTech, and Agribusiness** shaped a broad
+perspective on **Domain-Driven Design (DDD)**, **Modular Monoliths**, and
+distributed systems design.
 
 ---
 ### 🚀 Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,js,ts,aws,docker,mysql,mongodb,postgres,jest,git,githubactions,astro,tailwindcss,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,terraform,docker,postgres,git,githubactions,linux,grafana&perline=5" />
 </a>
 
 ---
