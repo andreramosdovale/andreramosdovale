@@ -40,15 +40,6 @@ distributed systems design.
 
 Here are some of the projects I'm proud of.
 
-#### SeatSync API - Cinema Management System
-*An advanced backend project designed as a deep-dive study into modern software architectures for a management system.*
-- Strictly follows **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
-- **Tech Stack:**
-  - `Kotlin`, `SpringBoot`, `SpringData JPA`, `PostgreSQL`
-- **[View on GitHub](https://github.com/andreramosdovale/seatsync-api)**
-
-
-
 #### Hive.Connect - Community Landing Page
 *As a volunteer developer, I created the official landing page for Hive.Connect, a social project dedicated to providing free IT education and fostering a tech community.*
 - Built with a modern, component-based architecture for performance and maintainability.
