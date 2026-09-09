@@ -22,8 +22,7 @@ Experience.Fintech: ....... PIX, Open Finance, millions of tx/day
 Experience.EdTech: ........ Gamified educational platforms
 Experience.Agribusiness: .. Distributed systems at scale
 
-- Contact
-Email.Personal: ........... andre_ramosdovale@outlook.com
-LinkedIn: ................. /in/andreramosvale
-GitHub: ................... @andreramosdovale
+Contact.Email.Personal: ... andre_ramosdovale@outlook.com
+Contact.LinkedIn: ......... /in/andreramosvale
+Contact.GitHub: ........... @andreramosdovale
 ```
