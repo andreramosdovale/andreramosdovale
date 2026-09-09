@@ -1,5 +1,4 @@
 ```yaml
------------------------------------------------------------
 Name: ..................... André Ramos do Vale
 Company: .................. Zup Innovation
 Role: ..................... Senior Backend Engineer
