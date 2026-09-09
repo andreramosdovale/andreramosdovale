@@ -1,6 +1,6 @@
 ```yaml
 -----------------------------------------------------------
-Name ...................... André Ramos do Vale
+Name: ...................... André Ramos do Vale
 Company: .................. Zup Innovation
 Role: ..................... Senior Backend Engineer
 Editor: ................... VSCode
